@@ -1,4 +1,4 @@
-# NFL-Stats-Analysis
+# NFL-RB-Analysis
 ## Overview
 I love fantasy football so I decided to analyze football data from the last couple of years for running backs specifically.
 ## Tasks
